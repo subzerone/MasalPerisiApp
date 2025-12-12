@@ -1,2 +1,0 @@
-# MasalPerisiApp
-IOS app 
